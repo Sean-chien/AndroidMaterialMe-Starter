@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/18eb1a5703b776821a4bd3640c42cbec/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/86932da8404273d3354eed5eb97901ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8c09f42437fe19dc6b5f44227834b5f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/825bc4b3638bb537a9595eeeabb22bdd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/22ea6766f4da49f3a50df5ba8adf1dcc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/ce979167c115c78e47eceaad0c3dd4f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/de102ce56244ca41e6af97f3b5954683/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/ad1d0e16ad52ade7f1c69a9616c906f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/547f69abd5b9ff3551d9342021fa08e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/6aaf5f69e5e7e205087eabe198c2faad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/57281b0c52dc747fd0adeb3062b43277/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/f6b7a98801eeb190ed70a6cce5a4686d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/e2964c0b7632ff6c422cf6c6fe26c160/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5af562cb15e99f9688e63a4707fa05fe/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/33011f91e2266992b493b63682158881/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d77b8cbec17fe266bb5ef7f032ce89c8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/68dcbde72863b1da461884c32501e199/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d63a00f4fd0440cb83e48e74d6f1ccd1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/18eb1a5703b776821a4bd3640c42cbec/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/18eb1a5703b776821a4bd3640c42cbec/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.example.android.materialme.DetailActivity
+ADDED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:11:9-61
+	android:name
+		ADDED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:11:19-49
+activity#com.example.android.materialme.MainActivity
+ADDED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/18eb1a5703b776821a4bd3640c42cbec/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/18eb1a5703b776821a4bd3640c42cbec/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/86932da8404273d3354eed5eb97901ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/86932da8404273d3354eed5eb97901ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8c09f42437fe19dc6b5f44227834b5f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8c09f42437fe19dc6b5f44227834b5f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/825bc4b3638bb537a9595eeeabb22bdd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/825bc4b3638bb537a9595eeeabb22bdd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/22ea6766f4da49f3a50df5ba8adf1dcc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/22ea6766f4da49f3a50df5ba8adf1dcc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/ce979167c115c78e47eceaad0c3dd4f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/ce979167c115c78e47eceaad0c3dd4f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/de102ce56244ca41e6af97f3b5954683/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/de102ce56244ca41e6af97f3b5954683/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/ad1d0e16ad52ade7f1c69a9616c906f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/ad1d0e16ad52ade7f1c69a9616c906f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/547f69abd5b9ff3551d9342021fa08e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/547f69abd5b9ff3551d9342021fa08e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/6aaf5f69e5e7e205087eabe198c2faad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/6aaf5f69e5e7e205087eabe198c2faad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/57281b0c52dc747fd0adeb3062b43277/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/57281b0c52dc747fd0adeb3062b43277/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/f6b7a98801eeb190ed70a6cce5a4686d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/f6b7a98801eeb190ed70a6cce5a4686d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/e2964c0b7632ff6c422cf6c6fe26c160/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/e2964c0b7632ff6c422cf6c6fe26c160/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5af562cb15e99f9688e63a4707fa05fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5af562cb15e99f9688e63a4707fa05fe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/33011f91e2266992b493b63682158881/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/33011f91e2266992b493b63682158881/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d77b8cbec17fe266bb5ef7f032ce89c8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d77b8cbec17fe266bb5ef7f032ce89c8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/68dcbde72863b1da461884c32501e199/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/68dcbde72863b1da461884c32501e199/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d63a00f4fd0440cb83e48e74d6f1ccd1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/seanchien/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d63a00f4fd0440cb83e48e74d6f1ccd1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
