@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+            "outputFile": "/Users/seanchien/Desktop/android-fundamentals-starter5.3-apps-v2/MaterialMe-Starter5.3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/src/main/res/values-w820dp/dimens.xml",
+                    "source": "/Users/seanchien/Desktop/android-fundamentals-starter5.3-apps-v2/MaterialMe-Starter5.3/app/src/main/res/values-w820dp/dimens.xml",
                     "from": {
                         "startLines": "19",
                         "startColumns": "4",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml",
+            "outputFile": "/Users/seanchien/Desktop/android-fundamentals-starter5.3-apps-v2/MaterialMe-Starter5.3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml",
             "map": [
                 {
                     "source": "/Users/seanchien/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5af562cb15e99f9688e63a4707fa05fe/res/values-ky/values-ky.xml",

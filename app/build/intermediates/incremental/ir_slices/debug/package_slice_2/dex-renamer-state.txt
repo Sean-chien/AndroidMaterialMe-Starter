@@ -1,4 +1,1 @@
-#Wed May 15 18:00:50 PDT 2019
-base.0=/Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/build/intermediates/transforms/dexMerger/debug/2
-path.0=classes.dex
-renamed.0=classes.dex
+#Thu May 16 00:14:32 PDT 2019

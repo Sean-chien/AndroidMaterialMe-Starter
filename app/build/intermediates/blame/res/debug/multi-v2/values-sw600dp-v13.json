@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/seanchien/AndroidStudioProjects/android-fundamentals-starter-apps-v2/MaterialMe-Starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "/Users/seanchien/Desktop/android-fundamentals-starter5.3-apps-v2/MaterialMe-Starter5.3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "/Users/seanchien/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/86932da8404273d3354eed5eb97901ab/res/values-sw600dp-v13/values-sw600dp-v13.xml",
